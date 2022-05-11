@@ -1,0 +1,280 @@
+Abide 	Obedecer
+Arise 	Levantar
+Awake 	Acordar
+Be 	Ser, Estar
+Bear 	Tolerar
+Beat 	Vencer, Bater
+Become 	Tornar-se
+Befall 	Suceder, sobrevir
+Beget 	Causar, gerar
+Begin 	Começar, iniciar
+Behold 	Contemplar
+Bend 	Curvar-se
+Bereave 	Perder, Cancelar
+Beseech 	Suplicar, Rogar
+Beset 	Importunar
+Bet 	Apostar
+Betake 	Entregar-se
+Bethink 	Refletir
+Bid 	Oferecer, Leiloar
+Bind 	Atar, Amarrar
+Bite 	Morder
+Bleed 	Sangrar
+Blow 	Soprar
+Break 	Quebrar
+Breed 	Procriar, Gerar
+Bring 	Trazer
+Broadcast 	Transmitir
+Browbeat 	Amedrontar
+Build 	Construir
+Burn 	Queimar
+Burst 	Explodir
+Bust 	Proibir, Rebaixar
+Buy 	Comprar
+Cast 	Arremessar
+Catch 	Pegar, Apanhar
+Chide 	Reprovar
+Choose 	Escolher
+Cling 	Aderir
+Clothe 	Vestir, Cobrir
+Come 	Vir
+Cost 	Custar
+Creep 	Arrepiar, Rastejar
+Cut 	Cortar
+Dare 	Ousar
+Deal 	Lidar, Negociar
+Dig 	Cavar
+Dive 	Mergulhar
+Do 	Fazer
+Draw 	Desenhar
+Dream 	Sonhar
+Drink 	Beber
+Drive 	Dirigir
+Dwell 	Enfatizar, Residir
+Eat 	Comer
+Fall 	Cair
+Feed 	Alimentar
+Feel 	Sentir
+Fight 	Lutar, Brigar
+Find 	Achar, Encontrar
+Fit 	Encaixar, caber
+Flee 	Fugir, Escapar
+Fling 	Lançar, Atirar
+Fly 	Voar
+Forbear 	Abster-se
+Forbid 	Proibir
+Forecast 	Prever (clima)
+Forego 	Anteceder
+Foreknow 	Saber (antes)
+Forerun 	Preceder
+Foresee 	Prever
+Foretell 	Prognosticar
+Forget 	Esquecer
+Forgive 	Perdoar
+Forsake 	Abandonar
+Forswear 	Renegar, Abjurar
+Freeze 	Congelar
+Gainsay 	Negar, Objetar
+Get 	Conseguir, obter
+Gild 	Dourar
+Give 	Dar
+Go 	Ir
+Grind 	Triturar, Afiar
+Grow 	Crescer, Criar
+Hamstring 	Cortar o tendão
+Hang 	Pendurar
+Have 	Ter
+Hear 	Ouvir
+Heave 	Elevar, Puxar
+Hew 	Talhar, reduzir
+Hide 	Esconder
+Hit 	Bater, Chocar-se
+Hold 	Segurar
+Hurt 	Machucar, doer
+Inbreed 	Cruzar (animais)
+Inlay 	Enquadrar
+Input 	Inserir (dados)
+Interbreed 	Produzir híbridos
+Interweave 	Trançar, mesclar
+Keep 	Manter, Guardar
+Kneel 	Ajoelhar-se
+Knit 	Tricotar
+Know 	Saber, Conhecer
+Lade 	Carregar, Imergir
+Lay 	Por, colocar
+Lead 	Liderar, levar
+Lean 	Apoiar-se
+Leap 	Saltar, Pular
+Learn 	Aprender
+Leave 	Partir, Deixar
+Lend 	Emprestar
+Let 	Deixar, Permitir
+Lie 	Deitar
+Light 	Acender
+Lose 	Perder
+Make 	Fazer
+Mean 	Significar
+Meet 	Encontrar
+Melt 	Derreter
+Miscast 	Enganar-se
+Misdeal 	Mal dividir
+Misgive 	Trazer dúvidas
+Mishear 	Mal escutar
+Mislay 	Perder
+Mislead 	Iludir, enganar
+Misread 	Ler errado
+Misspell 	Errar (ortografia)
+Misspend 	Esbanjar
+Mistake 	Errar
+Misunderstand 	Mal entender
+Mow 	Cortar (grama)
+Outbid 	Oferecer > preço
+Outdo 	Ultrapassar
+Outgrow 	Livrar-se
+Outride 	Montar + rápido
+Outrun 	Ultrapassar
+Outsell 	Vender mais 
+Outshine 	Brilhar mais
+Overbear 	Superar, vencer
+Overcome 	Superar
+Overdo 	Exagerar, Abusar
+Overeat 	Comer demais
+Overhang 	Ressaltar
+Overhear 	Ouvir por acaso
+Overlay 	Cobrir
+Overleap 	Saltar
+Overpay 	Pagar demais
+Override 	Exceder
+Overrun 	Invadir, Inundar
+Oversee 	Fiscalizar
+Oversell 	Vender demais
+Overshoot 	Errar o alvo
+Oversleep 	Dormir demais
+Overtake 	Alcançar (meta)
+Overthrow 	Por fim
+Partake 	Partilhar
+Pay 	Pagar
+Plead 	Alagar, Defender
+Preset 	Pré estabelecer
+Prove 	Provar
+Proofread 	Revisar, Conferir
+Put 	Colocar, por
+Quit 	Terminar, Desistir
+Read 	Ler
+Rebind 	Amarrar de novo
+Rebuild 	Reconstruir
+Recast 	Reformar
+Redo 	Refazer
+Relay 	Retransmitir
+Remake 	Refazer
+Rend 	Rasgar
+Repay 	Reembolsar
+Rerun 	Reprisar
+Resell 	Revender
+Reset 	Zerar, Retornar
+Retell 	Recontar
+Rethink 	Repensar
+Rewind 	Rebobinar
+Rewrite 	Reescrever
+Rid 	Libertar, Resgatar
+Ride 	Andar (bicicleta)
+Ring 	Soar, Tocar
+Rise 	Levantar
+Rive 	Fender, Rachar
+Run 	Correr, Funcionar
+Saw 	Serrar
+Say 	Dizer
+See 	Ver
+Seek 	Procurar
+Sell 	Vender
+Send 	Enviar
+Set 	Estabelecer
+Sew 	Costurar
+Shake 	Agitar
+Shave 	Barbear
+Shear 	Tosar, Tosquiar
+Shed 	Derramar
+Shine 	Brilhar
+Shit 	Evacuar
+Shoe 	Calçar
+Shoot 	Atirar, Filmar
+Show 	Mostrar, Exibir
+Shrink 	Encolher
+Shrive 	Confessar
+Shut 	Fechar
+Sing 	Cantar
+Sink 	Afundar, Afogar
+Sit 	Sentar
+Slay 	Matar
+Sleep 	Dormir
+Slide 	Deslizar
+Sling 	Afundar
+Slink 	Safar-se, Fugir
+Slit 	Fender, Rachar
+Smell 	Cheirar
+Smite 	Golpear, Ferir
+Sow 	Semear, Espalhar
+Speak 	Falar
+Speed 	Apressar-se
+Spell 	Soletrar
+Spend 	Gastar
+Spill 	Derramar
+Spin 	Girar (eixo)
+Spit 	Cuspir
+Split 	Dividir, Separar
+Spoil 	Mimar, Estragar
+Spread 	Espalhar
+Spring 	Brotar, Saltar
+Stand 	Ficar de pé
+Stave 	Despedaçar
+Steal 	Roubar
+Stick 	Pregar, Aderir
+Sting 	Picar, Ferroar
+Stink 	Cheirar mal
+Strew 	Espalhar
+Stride 	Cavalgar
+Strike 	Golpear, Bater
+String 	Amarrar
+Strive 	Esforçar-se
+Sunburn 	Queimar (sol)
+Swear 	Juara
+Sweep 	Varrer
+Swell 	Inchar
+Swim 	Nadar
+Swing 	Balançar
+Take 	Pegar, Levar
+Teach 	Ensinar
+Tear 	Rasgar, Chorar
+Tell 	Dizer, Contar
+Think 	Pensar, Achar
+Thrive 	Ter Sucesso
+Throw 	Arremessar
+Thrust 	Empurrar
+Tread 	Pisar
+Unbend 	Desatar
+Unbind 	Soltar, Liberar
+Underbid 	Oferecer menos
+Undergo 	Passar por
+Underlie 	Dar Suporte
+Understand 	Entender
+Undertake 	Tomar para si
+Underwrite 	Subscrever
+Undo 	Desfazer
+Unwind 	Liberar, Desatar
+Uphold 	Sustentar
+Upset 	Preocupar
+Wake 	Acordar
+Waylay 	Armar ciladas
+Wear 	Vestir
+Weave 	Tecer
+Wed 	Casar
+Weep 	Chorar, Lamentar
+Wet 	Molhar
+Win 	Vencer (Intr.)
+Wind 	Girar, Rodar
+Withdraw 	Retroceder, sacar
+Withhold 	Reter, Evitar
+Withstand 	Opor-se
+Wring 	Arrancar
+Write 	Escrever
+
